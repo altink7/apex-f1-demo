@@ -1,0 +1,9 @@
+{
+  "name": "ApexF1 - Intelligent Racing Hub",
+  "description": "The ultimate Formula 1 companion app featuring real-time AI analysis, interactive track exploration with Google Maps Grounding, comprehensive standings, and a generative video studio using Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
